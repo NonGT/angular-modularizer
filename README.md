@@ -18,3 +18,7 @@ Usage
 	angular.modularize("root");	// The name of root angular module "root" can be whatever.
 </script>
 ```
+
+License
+---
+MIT License
