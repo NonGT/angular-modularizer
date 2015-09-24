@@ -3,8 +3,10 @@ Simple snippet that keep track on all loaded angular modules to be included in t
 
 Installation
 ---
-Install via Bower:
-`bower install angular-modularizer`
+Install with [Bower](http://bower.io):
+```shell
+bower install angular-modularizer
+```
 
 Usage
 ---
