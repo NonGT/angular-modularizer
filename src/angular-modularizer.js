@@ -27,7 +27,7 @@ angular.loadedModules = [];
 	
 	angular.modularize = function(root) {
 	
-		angular.module(root, angular.loadedModules);
+		return angular.module(root, angular.loadedModules);
 	};
   
 })(angular);
